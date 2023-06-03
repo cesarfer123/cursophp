@@ -15,7 +15,7 @@ $resultado= match($a){
 echo $resultado;
 
 
-$edad=59;
+$edad=59 ;
 
 $valor=match(true){
     $edad>=60 => "eres de la tercera edad",
